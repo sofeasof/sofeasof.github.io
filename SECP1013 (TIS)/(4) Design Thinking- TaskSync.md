@@ -4,7 +4,7 @@ Below is my team's project presentation slide, a brief introduction about our pr
 * [Design Thinking Presentation.pptx](https://github.com/user-attachments/files/24330578/Design.Thinking.Presentation.pptx)
 
 Prototype Sketch:
-* [Uploading Prototype Sketches.pdf…]()
+* [Prototype Sketches.pdf](https://github.com/user-attachments/files/24838085/Prototype.Sketches.pdf)
 
 Our prototype
 * https://github.com/user-attachments/assets/dd37738d-5651-418f-a61d-789be84811e4
